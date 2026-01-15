@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-01-15` — Fixed minor inconsistency in logic
 - `2026-01-14` — General maintenance pass
 - `2026-01-05` — Optimised repeated code patterns
 - `2025-12-29` — Updated helper utilities
