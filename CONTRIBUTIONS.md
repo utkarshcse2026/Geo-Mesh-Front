@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-03-26` — Improved variable naming
 - `2026-03-21` — Improved documentation and comments
 - `2026-02-17` — General maintenance pass
 - `2026-02-13` — Optimised repeated code patterns
