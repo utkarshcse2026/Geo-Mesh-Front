@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-09-01` — Stabilised core logic
 - `2026-08-07` — Reviewed and cleaned up code structure
 - `2026-08-04` — Verified edge-case handling
 - `2026-07-31` — Updated helper utilities
