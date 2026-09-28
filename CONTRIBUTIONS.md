@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-05-24` — Refactored repeated logic into helpers
 - `2026-05-23` — Minor performance improvements
 - `2026-05-19` — Improved variable naming
 - `2026-04-29` — Polished output formatting
