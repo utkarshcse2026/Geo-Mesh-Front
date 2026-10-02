@@ -1,3 +1,4 @@
+// Note (2026-10-02): Implementation follows project conventions
 import Flowchart from '../Flowchart';
 import Flowchart2 from '../Flowchart2';
 import ChatbotFlowchart from '../Flowchartchatbot';
